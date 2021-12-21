@@ -9,6 +9,6 @@ My constantly growing skill set includes:
 * **Business Intelligence**: Tableau
 
 **Research Papers**:
-P. Keyvani: [Fibonacci Heaps](https://github.com/keyvanip/CSC250-Algorithm-Design-and-Analysis.git) (2021)
-P. Keyvani: [Analysis of the effect of oil prices on solar power consumption]() (2021)
+* P. Keyvani: [Fibonacci Heaps](https://github.com/keyvanip/CSC250-Algorithm-Design-and-Analysis.git) (2021)
+* P. Keyvani: [Analysis of the effect of oil prices on solar power consumption]() (2021)
             
