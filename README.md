@@ -7,4 +7,7 @@ My constantly growing skill set includes:
 * **Machine Learning**: **Time Series** (AR/MA, ARIMA, VAR)
 * **Deep Learning**: PyTorch
 * **Business Intelligence**: Tableau
+
+**Research Papers:**
+P.Keyvani: Fibonacci Heaps (2021)
             
