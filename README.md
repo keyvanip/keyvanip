@@ -8,6 +8,6 @@ My constantly growing skill set includes:
 * **Deep Learning**: PyTorch
 * **Business Intelligence**: Tableau
 
-**Research Papers:**
-P.Keyvani: Fibonacci Heaps (2021)
+**Research Papers**:
+P. Keyvani: [Fibonacci Heaps](https://github.com/keyvanip/CSC250-Algorithm-Design-and-Analysis.git) (2021)
             
