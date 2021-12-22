@@ -4,7 +4,7 @@ My professional profile is available on [Linkedin](https://www.linkedin.com/in/p
 My constantly growing skill set includes: 
 * **Programming Languages**: **Python** (NumPy, Pandas), **R** (Tidyverse, Leaflet, ggplot2), **Java** (OOP, Data Structures) 
 * **Statistical Modeling**: Linear and logistic regressions, linear models
-* **Machine Learning**: **Time Series** (AR/MA, ARIMA, VAR)
+* **Machine Learning**: **Time Series** (AR/MA, ARIMA, VAR, Exponential Smoothing)
 * **Deep Learning**: PyTorch
 * **Business Intelligence**: Tableau
 
