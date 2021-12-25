@@ -2,7 +2,7 @@ My name is **Parsa Keyvani** and I am an aspiring **data scientist**. I am curre
 My professional profile is available on [Linkedin](https://www.linkedin.com/in/parsa-keyvani/) and it is the best way to reach me. 
 
 My constantly growing skill set includes: 
-* **Programming Languages**: **Python** (NumPy, Pandas), **R** (Tidyverse, Leaflet, ggplot2), **Java** (OOP, Data Structures) 
+* **Programming Languages**: **Python** (NumPy, Pandas), **R** (Tidyverse, Leaflet, ggplot2), **Java** (Data Structures) 
 * **Statistical Modeling**: Linear and logistic regressions, linear models, Naive Bayes, decision tree, k-nearest neighbors
 * **Machine Learning**: **Time Series** (AR/MA, ARIMA, VAR, Exponential Smoothing)
 * **Deep Learning**: PyTorch
@@ -10,5 +10,5 @@ My constantly growing skill set includes:
 
 **Research Papers**:
 * P. Keyvani: [Fibonacci Heaps](https://github.com/keyvanip/CSC250-Algorithm-Design-and-Analysis.git) (2021)
-* P. Keyvani: [Analysis of the effect of oil prices on solar power consumption](https://github.com/keyvanip/ECO243-Intro-to-Econometrics.git) (2021)
+* P. Keyvani: [Analysis of the effect of oil prices on solar power consumption (Regression Analysis)](https://github.com/keyvanip/ECO243-Intro-to-Econometrics.git) (2021)
             
