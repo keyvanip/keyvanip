@@ -2,7 +2,7 @@ My name is **Parsa Keyvani** and I am an aspiring **data scientist**. I am curre
 My professional profile is available on [Linkedin](https://www.linkedin.com/in/parsa-keyvani/) and it is the best way to reach me. 
 
 My constantly growing skill set includes: 
-* **Programming Languages**: **Python** (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn), **R** (Tidyverse, Tidymodels, Leaflet, ggplot2), **Java** (Data Structures and Algorithm Design) 
+* **Programming Languages**: **Python** (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn), **R** (Tidyverse, Tidymodels, Leaflet, ggplot2), **Java** (Data Structures and Algorithm Design) **Stata**: Linear regression and analysis
 * **Statistical Modeling**: Linear and logistic regressions
 * **Machine Learning**: **Supervised Learning** (DecisionTree, GaussianNaiveBayes, K-NearestNeighbor, XGBoost, RandomForest), **Time Series** (AR/MA, ARIMA, VAR, Exponential Smoothing)
 * **Business Intelligence**: Tableau
