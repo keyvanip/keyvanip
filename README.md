@@ -8,7 +8,7 @@ My constantly growing skill set includes:
 * **Business Intelligence**: Tableau
 
 **Research Papers**:
-* P. Keyvani: [Heart Disease Prediction (Classification Analysis)](https://github.com/keyvanip/Heart-Disease-Prediction.git) (2021)
+* P. Keyvani: [Heart Disease Prediction (Classification Analysis)](https://github.com/keyvanip/Heart-Disease-Prediction.git) (2022)
 * P. Keyvani: [Fibonacci Heaps (Algorithm Analysis)](https://github.com/keyvanip/CSC250-Algorithm-Design-and-Analysis.git) (2021)
 * P. Keyvani: [The effect of oil prices on solar power consumption (Regression Analysis)](https://github.com/keyvanip/ECO243-Intro-to-Econometrics.git) (2021)
             
