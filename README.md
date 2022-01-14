@@ -6,6 +6,7 @@ My constantly growing skill set includes:
 * **Statistical Modeling**: Linear and logistic regressions
 * **Machine Learning**: **Supervised Learning** (DecisionTree, GaussianNaiveBayes, K-NearestNeighbor, XGBoost, RandomForest), **Time Series** (AR/MA, ARIMA, VAR, Exponential Smoothing)
 * **Business Intelligence**: Tableau
+* **Other**: Git
 
 **Research Papers & Projects**:
 * P. Keyvani: [Heart Disease Prediction (Classification Analysis)](https://github.com/keyvanip/Heart-Disease-Prediction.git) (2022)
