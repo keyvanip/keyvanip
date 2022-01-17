@@ -4,7 +4,7 @@ My professional profile is available on [Linkedin](https://www.linkedin.com/in/p
 My constantly growing skill set includes: 
 * **Programming Languages**: **Python** (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn), **R** (Tidyverse, Tidymodels, Leaflet), **Java** (Data Structures, Algorithm Design, Large Scale Software Development) **Stata**: Linear regression and analysis
 * **Statistical Modeling**: Linear and logistic regressions
-* **Machine Learning**: **Supervised Learning** (DecisionTree, GaussianNaiveBayes, K-NearestNeighbor, XGBoost, RandomForest), **Time Series** (AR/MA, ARIMA, VAR, Exponential Smoothing)
+* **Machine Learning**: **Supervised Learning** (DecisionTree, GaussianNaiveBayes, K-NearestNeighbor, XGBoost, RandomForest), **Time Series** (AR/MA, ARIMA, VAR, Exponential Smoothing), **Deep Learning** (RNN)
 * **Business Intelligence**: Tableau
 * **Other**: Git
 
