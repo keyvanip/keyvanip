@@ -9,7 +9,7 @@ My constantly growing skill set includes:
 * **Other**: Git, JavaFX
 
 **Current Working Papers & Projects**
-* P. Keyvani: [Customer Churn Analytics for a Stationery Business]
+* P. Keyvani: [Customer Churn Analytics for a Stationery Business](https://github.com/keyvanip/ChurnPrediction.git)
 * P. Keyvani, S.J. Schmidt: [Patterns of STEM College Major Selection and Persistance with a Focus on Immigrant Background]
 
 **Research Papers & Projects**:
