@@ -13,7 +13,7 @@ My constantly growing skill set includes:
 * P. Keyvani, S.J. Schmidt: [Patterns of STEM College Major Selection and Persistance with a Focus on Immigrant Background]
 
 **Research Papers & Projects**:
-* P. Keyvani: [Predictive Sales Analytics of My Family’s Business (Time Series Analysis)](https://github.com/keyvanip/ECO-312-Seminar-in-Forecasting.git) (2022)
+* P. Keyvani: [Predictive Sales Analytics (Time Series Analysis)](https://github.com/keyvanip/ECO-312-Seminar-in-Forecasting.git) (2022)
 * P. Keyvani: [Heart Disease Prediction (Classification Analysis)](https://github.com/keyvanip/Heart-Disease-Prediction.git) (2022)
 * P. Keyvani: [Fibonacci Heaps (Algorithm Design Analysis)](https://github.com/keyvanip/CSC250-Algorithm-Design-and-Analysis.git) (2021)
 * P. Keyvani: [The Effect of Oil Prices on Solar Power Consumption (Regression Analysis)](https://github.com/keyvanip/ECO243-Intro-to-Econometrics.git) (2021)
