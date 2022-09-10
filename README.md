@@ -1,4 +1,4 @@
-My name is **Parsa Keyvani** and I am an aspiring **data scientist**. I am currently a Junior majoring in Computer Science and Economics at Union College. 
+My name is **Parsa Keyvani** and I am an aspiring **data scientist**. I am currently a Senior majoring in Computer Science and Economics at Union College. 
 My professional profile is available on [Linkedin](https://www.linkedin.com/in/parsa-keyvani/) and it is the best way to reach me. 
 
 My constantly growing skill set includes: 
