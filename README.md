@@ -10,7 +10,7 @@ My constantly growing skill set includes:
 
 **Current Working Papers & Projects**
 
-* P. Keyvani, S.J. Schmidt: [Patterns of STEM College Major Selection and Persistance with a Focus on Immigrant Background]
+* P. Keyvani, S.J. Schmidt: [Understanding the Effect of Computer Science Coursework on Graduate School Attendance]
 
 **Research Papers & Projects**:
 * P. Keyvani: [Email Marketing Analysis for a Fintech Startup](https://github.com/keyvanip/EmailMarketing/blob/main/README.md)
