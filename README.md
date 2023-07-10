@@ -13,8 +13,8 @@ My constantly growing skill set includes:
 * P. Keyvani, S.J. Schmidt: [Understanding the Effect of Computer Science Coursework on Graduate School Attendance]
 
 **Research Papers & Projects**:
-* P. Keyvani: [Email Marketing Analysis for a Fintech Startup](https://github.com/keyvanip/EmailMarketing/blob/main/README.md)
-* P. Keyvani: [Customer Churn Analytics for a Stationery Business](https://github.com/keyvanip/ChurnPrediction.git)
+* P. Keyvani: [Email Marketing Analysis for a Fintech Startup](https://github.com/keyvanip/EmailMarketing/blob/main/README.md) (2023)
+* P. Keyvani: [Customer Churn Analytics for a Stationery Business](https://github.com/keyvanip/ChurnPrediction.git) (2023)
 * P. Keyvani: [Predictive Sales Analytics (Time Series Analysis)](https://github.com/keyvanip/ECO-312-Seminar-in-Forecasting.git) (2022)
 * P. Keyvani: [Heart Disease Prediction (Classification Analysis)](https://github.com/keyvanip/Heart-Disease-Prediction.git) (2022)
 * P. Keyvani: [Fibonacci Heaps (Algorithm Design Analysis)](https://github.com/keyvanip/CSC250-Algorithm-Design-and-Analysis.git) (2021)
