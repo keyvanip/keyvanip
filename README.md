@@ -13,6 +13,7 @@ My constantly growing skill set includes:
 
 
 **Research Papers & Projects**:
+* P. Keyvani, S. Weinstock: [Music Genre Classification Using Song Lyrics](https://github.com/keyvanip/music_genre_classification/tree/main) (2023)
 * P. Keyvani, S.J. Schmidt: [Understanding the Effect of Computer Science Coursework on Graduate School Attendance](https://github.com/keyvanip/thesis/blob/main/Thesis%20Report%20-%20Parsa-2-1.pdf) (2023)
 * P. Keyvani: [Email Marketing Analysis for a Fintech Startup](https://github.com/keyvanip/EmailMarketing/blob/main/README.md) (2023)
 * P. Keyvani: [Customer Churn Analytics for a Stationery Business](https://github.com/keyvanip/ChurnPrediction.git) (2023)
