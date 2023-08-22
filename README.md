@@ -13,9 +13,10 @@ My constantly growing skill set includes:
 
 
 **Research Papers & Projects**:
+* P. Keyvani, S.J. Schmidt: [Understanding the Effect of Computer Science Coursework on Graduate School Attendance](https://github.com/keyvanip/thesis/blob/main/Thesis%20Report%20-%20Parsa-2-1.pdf) (2023)
 * P. Keyvani: [Rolex Submariner Watch Price Prediction](https://github.com/keyvanip/Rolex_Price_Prediction/blob/main/Rolex_Watch_Prediction.ipynb) (2023)
 * P. Keyvani, S. Weinstock: [Music Genre Classification Using Song Lyrics](https://github.com/keyvanip/music_genre_classification/tree/main) (2023)
-* P. Keyvani, S.J. Schmidt: [Understanding the Effect of Computer Science Coursework on Graduate School Attendance](https://github.com/keyvanip/thesis/blob/main/Thesis%20Report%20-%20Parsa-2-1.pdf) (2023)
+* P. Keyvani, B. Vo: [Credit Card Transactions Database](https://devpost.com/software/credit-card-transactions-database) (2023)
 * P. Keyvani: [Email Marketing Analysis for a Fintech Startup](https://github.com/keyvanip/EmailMarketing/blob/main/README.md) (2023)
 * P. Keyvani: [Customer Churn Analytics for a Stationery Business](https://github.com/keyvanip/ChurnPrediction.git) (2023)
 * P. Keyvani: [Predictive Sales Analytics (Time Series Analysis)](https://github.com/keyvanip/ECO-312-Seminar-in-Forecasting.git) (2022)
