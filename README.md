@@ -8,7 +8,7 @@ My constantly growing skill set includes:
 * **Business Intelligence**: Tableau
 * **Other**: Git, JavaFX
 
-**Current Working Papers & Projects**
+**Current Working Papers & Projects**:
 
 
 
